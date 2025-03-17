@@ -27,7 +27,7 @@ This project is a task management application designed to help users manage thei
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/sari-Yona/to-do-list
+    git clone https://github.com/sari-Yona/to-do-list.client
     cd to-do-list
     ```
 
