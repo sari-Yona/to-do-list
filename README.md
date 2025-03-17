@@ -1,14 +1,14 @@
 # To-Do List Management Application
 
 ## Project Overview
-This project is an end-to-end task management application developed as a Full Stack project in 2025. It leverages modern technologies and best practices to provide a robust and scalable solution for managing tasks.
+This project is a task management application designed to help users manage their daily tasks efficiently. It is developed using modern web technologies and follows best practices to ensure a robust and scalable solution.
 
 ## Technologies Used
 - **Server-Side**: C# with Minimal API
 - **Client-Side**: React
 - **Database**: MySQL
 - **Architecture**: Microservices
-- **Deployment**:  MySQL database management, Docker for containerization, and Dotnet CLI for development.
+- **Deployment**: Clever-Cloud for MySQL database management, Docker for containerization, and Dotnet CLI for development.
 
 ## Features
 - **Task Management**: Create, update, and delete tasks.
@@ -27,7 +27,7 @@ This project is an end-to-end task management application developed as a Full St
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/sari-Yona/to-do-list/edit
+    git clone https://github.com/sari-Yona/to-do-list
     cd to-do-list
     ```
 
